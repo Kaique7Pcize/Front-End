@@ -17,7 +17,9 @@ p {
 #missao {
     font-size: 20px
 }
-
+.missao {
+    color: #bbff00;
+}
 em strong {
     color: #ff0000;
 }

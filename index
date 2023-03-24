@@ -10,7 +10,7 @@
 
     </body>
     <img id="banner" src="/home/escola/Downloads/barbearia.png">
-
+    <div class="principal">
    <h1>Sobre a Barbearia Alura</h1>
    
 
@@ -19,5 +19,15 @@
         <p id="missao" class="missao1"><em> Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
         
         <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
-</body>
+    </div>
+     <h2>Benefícios</h2>
+
+     <ul>
+        <li class="itens"><a href="atendimento_cliente.html">Atendimentos aos Clientes</a></li>
+        <li class="itens"><a href="Espaco_Diferenciado.html">Espaço Diferenciado</a></li>
+        <li class="itens"><a href="Localizacao.html">Localização</a></li>
+        <li class="itens"><a href="Profissionais_Qualificados.html">Profissionais Qualificados</a></li>
+     </ul>
+
+    </body>
 </html>
